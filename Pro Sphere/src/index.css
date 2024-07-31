@@ -1,0 +1,27 @@
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.container2{
+    max-width: 959px;
+    margin: 0 auto;
+}
+.container3{
+    max-width: 1550px;
+    margin: 0 auto;
+}
+.container4{
+    max-width: 1000px;
+    position: relative;
+    /* left: 40px; */
+}
+body{
+    background: rgba(245, 246, 247, 1);
+    font-family: GT Walsheim Pro;
+}
